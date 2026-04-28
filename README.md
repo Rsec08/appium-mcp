@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/rahulec08-appium-mcp-badge.png)](https://mseep.ai/app/rahulec08-appium-mcp)
+
 ![Build](https://github.com/Rahulec08/appium-mcp/actions/workflows/ci.yml/badge.svg)
 [![NPM Version](https://img.shields.io/npm/v/mcp-appium-visual.svg)](https://www.npmjs.com/package/mcp-appium-visual)
 [![License](https://img.shields.io/github/license/Rahulec08/appium-mcp.svg)](LICENSE)
